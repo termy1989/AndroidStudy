@@ -1,3 +1,3 @@
 # AndroidStudy
-Сlient-server сode samples for Android
+Сlient-server сode samples for Android. 
 MVP, Loaders, Retrofit, RX, Mosby, Dagger...
