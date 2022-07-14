@@ -1,0 +1,1 @@
+This application is illustrating the example for using RX for client-server developing
