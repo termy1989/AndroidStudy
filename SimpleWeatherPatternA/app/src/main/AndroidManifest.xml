@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ru.oepak22.simpleweatherpatterna">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".WeatherApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SimpleWeatherPatternA"
+        android:usesCleartextTraffic="true">
+
+        <activity
+            android:name=".WeatherActivity"
+            android:exported="false" />
+
+        <service
+            android:name=".network.SimpleService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <service
+            android:name=".network.NetworkService"
+            android:exported="false" />
+
+        <provider
+            android:name=".sqlite.WeatherContentProvider"
+            android:authorities="ru.oepak22.simpleweather"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

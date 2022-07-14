@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mnp/Desktop/2/WeatherSyncAdapter/app/src/main/res/layout/activity_syncsettings.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/mnp/Desktop/2/WeatherSyncAdapter/app/src/main/res/layout/fragment_add.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/mnp/Desktop/2/WeatherSyncAdapter/app/src/main/res/menu/cities.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mnp/Desktop/2/WeatherSyncAdapter/app/src/main/res/xml/account_preferences.xml" value="0.3211050724637681" />
+        <entry key="..\:/Users/mnp/Desktop/2/WeatherSyncAdapter/app/src/main/res/xml/sync_preferences.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/mnp/Desktop/Android Studio/examples/2/SimpleWeatherPatternA/app/src/main/res/layout/activity_weather.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/2_/SimpleWeatherPatternA/app/src/main/res/layout-land/weather_card.xml" value="0.1728395061728395" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/2_/SimpleWeatherPatternA/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/2_/SimpleWeatherPatternA/app/src/main/res/layout/activity_weather.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/2_/SimpleWeatherPatternA/app/src/main/res/layout/weather_card.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/WeatherSyncAdapter/app/src/main/res/xml/account_preferences.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/terminator/Desktop/2/SimpleWeatherPatternA_2/app/src/main/res/layout/activity_main.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/terminator/Desktop/2/WeatherSyncAdapter/app/src/main/res/layout/empty.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/terminator/Desktop/Android Studio/examples/2/WeatherSyncAdapter_2/app/src/main/res/layout-land/weather_card.xml" value="0.1728395061728395" />
+        <entry key="..\:/Users/terminator/Desktop/Android Studio/examples/2/WeatherSyncAdapter_2/app/src/main/res/layout/item_city.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/terminator/Desktop/Android Studio/examples/2/WeatherSyncAdapter_2/app/src/main/res/xml/account_preferences.xml" value="0.16983695652173914" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

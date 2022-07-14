@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Sync Weather</string>
+    <string name="loading">Loading…</string>
+    <string name="load_finished">Load finished</string>
+
+    <string name="temperature">Temperature</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind speed</string>
+
+    <string name="f_temperature">%d\u2103</string>
+    <string name="f_pressure">%d bar</string>
+    <string name="f_humidity">%d%%</string>
+    <string name="f_wind_speed">%d m/s</string>
+
+    <string name="add">Добавить</string>
+    <string name="settings">Настройки</string>
+
+    <string name="add_city">Добавить город</string>
+    <string name="city_name">Название</string>
+
+    <string name="sync">Синхронизация</string>
+    <string name="auto_sync">Автоматическая синхронизация</string>
+    <string name="auto_sync_summary">Синхронизация через определенные интервалы времени</string>
+    <string name="auto_sync_interval">Интервал синхронизации</string>
+    <string name="auto_sync_interval_summary">Промежуток времени выполнения синхронизации</string>
+
+    <string name="weather_error">Error loading weather :( \n\n Retry</string>
+    <string name="empty_list">Failed to load weather data.\nCheck your network settings.</string>
+
+    <string name="retry">Try Again</string>
+    <string name="error">Data loading error!</string>
+
+    <string name="sync_account_type">ru.oepak22.simpleweatherpatterna</string>
+
+    <string name="content_authority">ru.oepak22.simpleweatherpatterna</string>
+
+</resources>

@@ -1,0 +1,1 @@
+This application is illustrating the example for using SyncAdapter for getting the weather information in specified cities

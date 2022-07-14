@@ -1,0 +1,1 @@
+This application is illustrating the example for using Loader for getting the weather information in specified cities

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="auto_sync_intervals">
+        <item>Каждые 10 минут</item>
+        <item>Каждые 15 минут</item>
+        <item>Каждые полчаса</item>
+        <item>Каждый час</item>
+        <item>Раз в три часа</item>
+        <item>Раз в день</item>
+    </string-array>
+
+    <string-array name="auto_sync_interval_values">
+        <item>600</item>
+        <item>900</item>
+        <item>1800</item>
+        <item>3600</item>
+        <item>10800</item>
+        <item>86400</item>
+    </string-array>
+
+    <string-array name="initial_cities">
+        <item>Kazan</item>
+        <item>Moscow</item>
+        <item>London</item>
+        <item>Washington</item>
+        <item>Berlin</item>
+        <item>Madrid</item>
+        <item>Tripoli</item>
+        <item>Barnaul</item>
+        <item>Freetown</item>
+        <item>Bagdad</item>
+    </string-array>
+
+</resources>
