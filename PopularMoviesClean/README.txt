@@ -1,0 +1,1 @@
+This application is illustrating the example for using Clean Architecture for client-server developing

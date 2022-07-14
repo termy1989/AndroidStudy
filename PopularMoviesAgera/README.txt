@@ -1,0 +1,1 @@
+This application is illustrating the example for using Agera for client-server developing
