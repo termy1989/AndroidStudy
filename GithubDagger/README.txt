@@ -1,0 +1,1 @@
+This application is illustrating the example for using Dagger for client-server developing

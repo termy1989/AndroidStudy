@@ -1,0 +1,1 @@
+This application is illustrating the example for using Mosby for client-server developing

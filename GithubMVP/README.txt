@@ -1,0 +1,1 @@
+This application is illustrating the example for using MVP for client-server developing
